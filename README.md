@@ -7,7 +7,7 @@ The project follows the OSDev Bare Bones tutorial and serves as the foundation f
 
 The main goal of Qtinar is to gradually evolve from a simple bootable kernel into a modular operating system with basic hardware interaction, memory management, and multitasking.
 
----
+
 
 ## 2. Current State
 
