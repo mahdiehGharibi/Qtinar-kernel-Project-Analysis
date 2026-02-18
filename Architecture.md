@@ -16,6 +16,7 @@ The kernel is Multiboot-compliant and loaded by GRUB.
 
 ## 2. Kernel Structure
 
+```
 Qtinar Kernel
 ├── src/
 │ ├── boot.s # Multiboot header & entry point
@@ -25,7 +26,7 @@ Qtinar Kernel
 │ └── grub.cfg
 ├── README.md # Project overview
 └── Architecture.md # Kernel architecture description
-
+```
 
 
 ## 3. Components
