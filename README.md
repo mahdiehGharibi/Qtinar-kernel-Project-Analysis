@@ -1,4 +1,4 @@
-# Qtinar Kernel — Project Analysis
+# Qtinar v0.1 Kernel — Project Analysis
 
 ## 1. Overview
 
