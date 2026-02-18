@@ -71,7 +71,6 @@ Qtinar Kernel
 ## 5. Flow Diagram (High-Level)
 
 ```
-
 BIOS/Emulator
 ↓
 GRUB Loader
@@ -81,7 +80,6 @@ _start (boot.s)
 kernel_main() (kernel.c)
 ↓
 VGA Output / Future Devices
-
 ```
 
 
