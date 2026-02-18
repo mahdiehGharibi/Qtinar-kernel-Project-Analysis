@@ -21,7 +21,7 @@ The kernel currently:
 
 This confirms that the toolchain, linker, and boot process are working correctly.
 
----
+
 
 ## 3. Architecture
 
@@ -35,7 +35,7 @@ Qtinar currently uses a **monolithic kernel design**.
 - GRUB bootloader
 - VGA text output
 
----
+
 
 ## 4. Missing Core Features
 
@@ -58,7 +58,7 @@ The kernel is still minimal and lacks most OS subsystems:
 - System calls
 - Driver model
 
----
+
 
 ## 5. Next Milestones
 
@@ -83,7 +83,7 @@ Qtinar aims to become a research-oriented operating system focused on:
 - Concurrency models
 - Low-level performance optimization
 
----
+
 
 ## 6. Learning Goals
 
@@ -94,7 +94,7 @@ This project is designed to deepen understanding of:
 - Low-level C and assembly integration
 - Operating system design principles
 
----
+
 
 ## 7. Status
 
