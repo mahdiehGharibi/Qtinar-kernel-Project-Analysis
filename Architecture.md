@@ -70,6 +70,8 @@ Qtinar Kernel
 
 ## 5. Flow Diagram (High-Level)
 
+```
+
 BIOS/Emulator
 ↓
 GRUB Loader
@@ -80,7 +82,7 @@ kernel_main() (kernel.c)
 ↓
 VGA Output / Future Devices
 
-
+```
 
 
 ## 6. Design Principles
